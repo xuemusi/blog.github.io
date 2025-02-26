@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>如何用链式代理提升住宅IP速度？Shadowrocket、SagerNet全讲解！</title>
+      <link href="/2025/02/26/%E5%A6%82%E4%BD%95%E7%94%A8%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86%E6%8F%90%E5%8D%87%E4%BD%8F%E5%AE%85IP%E9%80%9F%E5%BA%A6%EF%BC%9FShadowrocket%E3%80%81SagerNet%E5%85%A8%E8%AE%B2%E8%A7%A3%EF%BC%81/"/>
+      <url>/2025/02/26/%E5%A6%82%E4%BD%95%E7%94%A8%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86%E6%8F%90%E5%8D%87%E4%BD%8F%E5%AE%85IP%E9%80%9F%E5%BA%A6%EF%BC%9FShadowrocket%E3%80%81SagerNet%E5%85%A8%E8%AE%B2%E8%A7%A3%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/08Cji06F_RY?si=MeMBQnA196yrPGg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style># 如何用链式代理提升住宅IP速度？Shadowrocket、SagerNet全讲解！<h2 id="常见的代理软件"><a href="#常见的代理软件" class="headerlink" title="常见的代理软件"></a>常见的代理软件</h2><h3 id="1-IOS"><a href="#1-IOS" class="headerlink" title="1. IOS"></a>1. <strong>IOS</strong></h3><ul><li><p><strong>Shadowrocket</strong><br><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">下载链接</a></p></li><li><p><strong>Quantumult X</strong><br><a href="https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en-US">下载链接</a></p></li></ul><h3 id="2-MAC"><a href="#2-MAC" class="headerlink" title="2. MAC"></a>2. <strong>MAC</strong></h3><ul><li><strong>Clash</strong><br><a href="https://clashforwindows.org/clash-for-windows-download/">下载链接</a></li></ul><h3 id="3-安卓"><a href="#3-安卓" class="headerlink" title="3. 安卓"></a>3. <strong>安卓</strong></h3><ul><li><p><strong>v2rayN</strong><br><a href="https://github.com/2dust/v2rayN/releases">下载链接</a></p></li><li><p><strong>Clash</strong><br><a href="https://clashforandroid.org/clash-for-android-download/">下载链接</a></p></li></ul><h3 id="4-Windows"><a href="#4-Windows" class="headerlink" title="4. Windows"></a>4. <strong>Windows</strong></h3><ul><li><p><strong>v2rayN</strong><br><a href="https://toutyrater.github.io/prep/install.html">下载链接</a></p></li><li><p><strong>ClashX</strong><br><a href="https://clashxpro.org/clashx-pro-download/">下载链接</a></p></li></ul><h2 id="什么是链式代理"><a href="#什么是链式代理" class="headerlink" title="什么是链式代理"></a>什么是链式代理</h2><p>链式代理是指通过将多个代理服务器串联起来，形成一条“代理链”。 在用户与目标服务器之间，用户的请求会依次经过链中的每个代理服务器，每个代理服务器负责转发请求和响应。</p><h2 id="IPROYAL"><a href="#IPROYAL" class="headerlink" title="IPROYAL"></a>IPROYAL</h2><h3 id="1-优缺点"><a href="#1-优缺点" class="headerlink" title="1. 优缺点"></a>1. <strong>优缺点</strong></h3><ul><li><p><strong>优点</strong>：</p><ul><li>按流量购买，<strong>IP纯净</strong>，适合需要高质量住宅IP的场景。</li></ul></li><li><p><strong>缺点</strong>：</p><ul><li><strong>部分地区支持不好</strong>：如尼日利亚区（尼区）较卡，有些IP可能是被使用过的。</li><li>不适合需要<strong>固定住宅IP</strong>的应用场景。</li></ul></li><li><p><a href="https://iproyal.cn/?r=608952">IPROYAL官网</a></p></li></ul><h2 id="安卓-IOS-链式代理"><a href="#安卓-IOS-链式代理" class="headerlink" title="安卓&amp;IOS 链式代理"></a>安卓&amp;IOS 链式代理</h2><h3 id="1-安卓"><a href="#1-安卓" class="headerlink" title="1. 安卓"></a>1. <strong>安卓</strong></h3><ul><li><p><strong>NekoBoxForAndroid</strong><br><a href="https://github.com/MatsuriDayo/NekoBoxForAndroid">下载链接</a></p></li><li><p><strong>SagerNet</strong><br><a href="https://github.com/SagerNet/SagerNet/releases">下载链接</a></p></li></ul><h3 id="2-IOS"><a href="#2-IOS" class="headerlink" title="2. IOS"></a>2. <strong>IOS</strong></h3><ul><li><strong>Shadowrocket</strong><br><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">下载链接</a></li></ul><h2 id="PC指纹浏览器链式代理"><a href="#PC指纹浏览器链式代理" class="headerlink" title="PC指纹浏览器链式代理"></a>PC指纹浏览器链式代理</h2><h3 id="1-MAC"><a href="#1-MAC" class="headerlink" title="1. MAC"></a>1. <strong>MAC</strong></h3><ul><li><a href="https://youtu.be/ZLftOJ3SnTk">视频教程</a></li></ul><h3 id="2-Windows"><a href="#2-Windows" class="headerlink" title="2. Windows"></a>2. <strong>Windows</strong></h3><ul><li><a href="https://toutyrater.github.io/prep/install.html">安装教程</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 出海工具 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何在一天内搞定七家香港银行开户？实战分享</title>
       <link href="/2025/02/26/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%A4%A9%E5%86%85%E6%90%9E%E5%AE%9A%E4%B8%83%E5%AE%B6%E9%A6%99%E6%B8%AF%E9%93%B6%E8%A1%8C%E5%BC%80%E6%88%B7%EF%BC%9F%E5%AE%9E%E6%88%98%E5%88%86%E4%BA%AB/"/>
       <url>/2025/02/26/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%A4%A9%E5%86%85%E6%90%9E%E5%AE%9A%E4%B8%83%E5%AE%B6%E9%A6%99%E6%B8%AF%E9%93%B6%E8%A1%8C%E5%BC%80%E6%88%B7%EF%BC%9F%E5%AE%9E%E6%88%98%E5%88%86%E4%BA%AB/</url>
