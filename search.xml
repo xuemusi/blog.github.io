@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Cloudflare-vless</title>
+      <link href="/2025/05/25/Cloudflare-vless/"/>
+      <url>/2025/05/25/Cloudflare-vless/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[视频内嵌代码]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><p>当然可以，以下是你提供内容的整理版，已经按照 Markdown 标准格式美化排版，更适合发到博客、GitHub、Notion 或 Telegram：</p><p>⸻</p><p>新手小白如何通过 Cloudflare 搭建永久免费节点？告别流量焦虑！</p><p>⸻</p><p>🚀 搭建永久免费节点的优势<br>    •✅ 自建节点，安全可靠<br>    •✅ 永久免费，不限流量</p><p>⸻</p><p>🧰 搭建 CF 免费节点准备材料<br>    •一个 Google 账号<br>    •进入 Cloudflare 控制台<br>    •购买域名（推荐）<br>    •Spaceship 域名注册<br>    •生成 UUID（用于配置节点）<br>    •Wetools UUID 工具</p><p>⸻</p><p>🛠 搭建 VLESS &#x2F; Trojan 免费节点</p><p>🌐 VLESS + Workers 搭建教程<br>    •GitHub 项目地址：<br>👉 Cloudflare_vless_trojan - VLESS 部署</p><p>⚡ Trojan + Pages 搭建教程<br>    •GitHub 项目地址：<br>👉 Cloudflare_vless_trojan - Trojan 部署</p><p>⸻</p><p>📱 各客户端使用演示</p><p>🖥 v2rayN (Windows)<br>    •v2rayN 下载地址</p><p>📱 v2rayNG (Android)<br>    •v2rayNG 下载地址</p><p>⸻</p><p>🌍 绑定域名到 Cloudflare</p><p>购买域名后，将 DNS 管理交给 Cloudflare，可以自动申请 SSL 证书、开启 CDN、绑定 Workers&#x2F;PAGES 脚本。</p><p>⸻</p><p>💡 使用经验分享（建议收藏）<br>    •Cloudflare 不止能搭建节点，还能用来部署：<br>    •静态博客<br>    •中转跳板站<br>    •API 辅助服务等<br>    •⚠ Pages 部署注意事项：<br>    •入口文件只能命名为 _worker.js，否则会报错。<br>    •不要使用 _worker (2).js 这种带括号的文件名。<br>    •⚙ 节点配置建议：<br>    •务必启用 TLS 加密<br>    •客户端支持 Fragment 分片功能时建议开启，可有效防止域名被墙<br>    •🕒 节点部署后可能不会立即生效：<br>    •Pages 和 Workers 通常有延迟（几分钟）<br>    •若想立即生效，推荐配置 自定义域名<br>    •🐢 访问速度慢的解决方案：<br>    •Cloudflare 访问自身服务较慢时，推荐配合机场一起使用（选按量付费型）</p><p>⸻</p><p>✅ 总结</p><p>Cloudflare + 自购域名 + GitHub 项目组合，是 目前免费搭建翻墙节点最优雅的方式之一。<br>适合新手入门，也适合进阶自定义配置的玩家。</p><p>⸻</p><p>需要我帮你做成一个导航页或视频封面也可以，欢迎随时告诉我。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何拥有英国银行账户？iFast如何注册？如何出入金？</title>
       <link href="/2025/03/23/iFast/"/>
       <url>/2025/03/23/iFast/</url>
